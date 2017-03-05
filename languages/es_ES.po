@@ -298,48 +298,48 @@ msgid "Older posts"
 msgstr "Artículos más antiguos"
 
 #: ../index-one.php:449
-msgid "Why AccessPress?"
-msgstr ""
+msgid "Why ME?"
+msgstr "¿Por que Confiar en Movimiento en Equilibrio?"
 
 #: ../index-one.php:452
-msgid "Theme Options Panel"
-msgstr "Panel de opciones del tema"
+msgid "Option1"
+msgstr "Equipo Joven Multidiciplinar"
 
 #: ../index-one.php:453
-msgid "Responsive Design"
-msgstr ""
+msgid "Option2"
+msgstr "Innovando en la Fisioterapia"
 
 #: ../index-one.php:454
-msgid "Featured Slider"
-msgstr "Slider destacado"
+msgid "Option3"
+msgstr "Atención Personalizada"
 
 #: ../index-one.php:455
-msgid "Sidebar & custom Logo/favicon Option"
-msgstr "Barra lateral y logo personalizado/opción favicon"
+msgid "Option4"
+msgstr "Constante Evaluación de los Progresos"
 
 #: ../index-one.php:456
-msgid "Multiple Homepage Layouts"
-msgstr ""
+msgid "Option5"
+msgstr "Fisioterapia Tradicional"
 
 #: ../index-one.php:457
-msgid "Portfolio, Event/News Layout"
-msgstr ""
+msgid "Option6"
+msgstr "Método Check your Motion"
 
 #: ../index-one.php:458
-msgid "CSS3 Animations"
-msgstr "Animaciones css3"
+msgid "Option7"
+msgstr "Método Redcord Neurac Medical"
 
 #: ../index-one.php:459
-msgid "Many More"
-msgstr "Mucho más"
+msgid "More"
+msgstr "Muchos servicios más"
 
-#: ../index-one.php:472
+#: ../index-one.php:566
 msgid "Gallery"
-msgstr "Galería"
+msgstr "Galería de Imágenes"
 
 #: ../index-one.php:568
 msgid "Testimonials"
-msgstr "Testimonios"
+msgstr "Testimonios de nuestros Clientes"
 
 #: ../index-one.php:577
 msgid ""

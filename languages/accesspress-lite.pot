@@ -234,40 +234,45 @@ msgid ""
 "consequat. Duis aute irure dolor in reprehenderit in voluptate..."
 msgstr ""
 
-#: index-one.php:426 index-two.php:440
+#: index-two.php:440
 msgid "Why AccessPress?"
 msgstr ""
 
+#: index-one.php:426
+msgid "Why ME?"
+msgstr ""
+
+
 #: index-one.php:429
-msgid "Theme Options Panel"
+msgid "Option1"
 msgstr ""
 
 #: index-one.php:430
-msgid "Responsive Design"
+msgid "Option2"
 msgstr ""
 
 #: index-one.php:431
-msgid "Featured Slider"
+msgid "Option3"
 msgstr ""
 
 #: index-one.php:432
-msgid "Sidebar & custom Logo/favicon Option"
+msgid "Option4"
 msgstr ""
 
 #: index-one.php:433
-msgid "Multiple Homepage Layouts"
+msgid "Option5"
 msgstr ""
 
 #: index-one.php:434
-msgid "Portfolio, Event/News Layout"
+msgid "Option6"
 msgstr ""
 
 #: index-one.php:435
-msgid "CSS3 Animations"
+msgid "Option7"
 msgstr ""
 
 #: index-one.php:436
-msgid "Many More"
+msgid "More"
 msgstr ""
 
 #: index-one.php:449 index-two.php:456

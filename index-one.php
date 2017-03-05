@@ -423,17 +423,17 @@ wp_reset_query(); ?>
         else:  
         ?>
         <aside id="text-3" class="widget widget_text">
-            <h3 class="widget-title"><?php _e('Why AccessPress?','accesspress-lite'); ?></h3>
+            <h3 class="widget-title"><?php _e('Why ME?','accesspress-lite'); ?></h3>
             <div class="textwidget">
                 <ul>
-                <li><?php _e('Theme Options Panel','accesspress-lite'); ?></li>
-                <li><?php _e('Responsive Design','accesspress-lite'); ?></li>
-                <li><?php _e('Featured Slider','accesspress-lite'); ?></li>
-                <li><?php _e('Sidebar & custom Logo/favicon Option','accesspress-lite'); ?></li>
-                <li><?php _e('Multiple Homepage Layouts','accesspress-lite'); ?></li>
-                <li><?php _e('Portfolio, Event/News Layout','accesspress-lite'); ?></li>
-                <li><?php _e('CSS3 Animations','accesspress-lite'); ?></li>
-                <li><?php _e('Many More','accesspress-lite'); ?></li>
+                <li><?php _e('Option1','accesspress-lite'); ?></li>
+                <li><?php _e('Option2','accesspress-lite'); ?></li>
+                <li><?php _e('Option3','accesspress-lite'); ?></li>
+                <li><?php _e('Option4','accesspress-lite'); ?></li>
+                <li><?php _e('Option5','accesspress-lite'); ?></li>
+                <li><?php _e('Option6','accesspress-lite'); ?></li>
+                <li><?php _e('Option7','accesspress-lite'); ?></li>
+                <li><?php _e('More','accesspress-lite'); ?></li>
                 </ul>
             </div>
         </aside>
