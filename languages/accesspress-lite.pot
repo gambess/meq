@@ -1,0 +1,1296 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-25 11:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: 404.php:14
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:18
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: 404.php:22
+msgid "404"
+msgstr ""
+
+#: 404.php:23
+msgid "error"
+msgstr ""
+
+#: archive.php:31
+msgid "Author: %s"
+msgstr ""
+
+#: archive.php:34
+msgid "Day: %s"
+msgstr ""
+
+#: archive.php:37
+msgid "Month: %s"
+msgstr ""
+
+#: archive.php:37
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:40
+msgid "Year: %s"
+msgstr ""
+
+#: archive.php:40
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:43
+msgid "Asides"
+msgstr ""
+
+#: archive.php:46
+msgid "Galleries"
+msgstr ""
+
+#: archive.php:49
+msgid "Images"
+msgstr ""
+
+#: archive.php:52
+msgid "Videos"
+msgstr ""
+
+#: archive.php:55
+msgid "Quotes"
+msgstr ""
+
+#: archive.php:58
+msgid "Links"
+msgstr ""
+
+#: archive.php:61
+msgid "Statuses"
+msgstr ""
+
+#: archive.php:64
+msgid "Audios"
+msgstr ""
+
+#: archive.php:67
+msgid "Chats"
+msgstr ""
+
+#: archive.php:70
+msgid "Archives"
+msgstr ""
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:35 comments.php:52
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:36 comments.php:53
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:37 comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:19
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-page.php:18 content-single.php:25 content.php:117
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:23 content-single.php:32
+msgid "Edit"
+msgstr ""
+
+#: content.php:38 content.php:114
+msgid "More"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#. translators: used between list items, there is a space after the comma
+#: content.php:128 content.php:138
+msgid ", "
+msgstr ""
+
+#: content.php:132
+msgid "Posted in %1$s"
+msgstr ""
+
+#: content.php:142
+msgid "Tagged %1$s"
+msgstr ""
+
+#: footer.php:58
+msgid "Free WordPress Theme"
+msgstr ""
+
+#: footer.php:64
+msgid "Copyright"
+msgstr ""
+
+#: functions.php:67
+msgid "Primary Menu"
+msgstr ""
+
+#: index-one.php:71
+msgid "Free WordPress theme - ACCESSPRESS LITE"
+msgstr ""
+
+#: index-one.php:79
+msgid ""
+"AccessPress Lite is a HTML5 & CSS3 Responsive Free WordPress Business Theme "
+"with clean, minimal yet highly professional design."
+msgstr ""
+
+#: index-one.php:80
+msgid ""
+"With our years of experience, we have developed this theme and given back to "
+"this awesome WordPress community. It is feature rich, multi purpose and "
+"flexible responsive theme Suitable for Agencies, Small Biz, Corporates, "
+"Bloggers - Anyone and Everyone!"
+msgstr ""
+
+#: index-one.php:81
+msgid ""
+"The theme is complete with many useful features. The intuitive theme options "
+"let you manage all the possible options/features of the theme. You can use "
+"it to create your next superb website in no time and all for FREE."
+msgstr ""
+
+#: index-one.php:82 index-one.php:368 inc/admin-panel/theme-options.php:29 
+#: inc/admin-panel/theme-options.php:36
+msgid "Read More"
+msgstr ""
+
+#: index-one.php:152
+msgid "Mar"
+msgstr ""
+
+#: index-one.php:159
+msgid "Title of the event-"
+msgstr ""
+
+#: index-one.php:163
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod "
+"tempor..."
+msgstr ""
+
+#: index-one.php:364 index-two.php:290
+msgid "Featured Post"
+msgstr ""
+
+#: index-one.php:367 index-two.php:293
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, "
+"quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo "
+"consequat. Duis aute irure dolor in reprehenderit in voluptate..."
+msgstr ""
+
+#: index-one.php:426 index-two.php:440
+msgid "Why AccessPress?"
+msgstr ""
+
+#: index-one.php:429
+msgid "Theme Options Panel"
+msgstr ""
+
+#: index-one.php:430
+msgid "Responsive Design"
+msgstr ""
+
+#: index-one.php:431
+msgid "Featured Slider"
+msgstr ""
+
+#: index-one.php:432
+msgid "Sidebar & custom Logo/favicon Option"
+msgstr ""
+
+#: index-one.php:433
+msgid "Multiple Homepage Layouts"
+msgstr ""
+
+#: index-one.php:434
+msgid "Portfolio, Event/News Layout"
+msgstr ""
+
+#: index-one.php:435
+msgid "CSS3 Animations"
+msgstr ""
+
+#: index-one.php:436
+msgid "Many More"
+msgstr ""
+
+#: index-one.php:449 index-two.php:456
+msgid "Gallery"
+msgstr ""
+
+#: index-one.php:520
+msgid "Testimonials"
+msgstr ""
+
+#: index-one.php:529
+msgid ""
+"Thanks for delivering top quality services to your clients. It just takes a "
+"minute to get an answer from you when in difficulties."
+msgstr ""
+
+#: index-one.php:531
+msgid "Yanetxys Torreblanca"
+msgstr ""
+
+#: index-one.php:540
+msgid ""
+"Thank you very much the support team AccessPress lite for service, are "
+"really wonderful in their care and in the resolution of the problem."
+msgstr ""
+
+#: index-one.php:542
+msgid "David Soriano"
+msgstr ""
+
+#: index-one.php:551
+msgid ""
+"Hello, I would say I am much satisfied! I tested installing the theme "
+"AccessPress Lite on my blog and found it very good."
+msgstr ""
+
+#: index-one.php:553
+msgid "Jotta Lima"
+msgstr ""
+
+#: index-one.php:557
+msgid "View All Testimonials"
+msgstr ""
+
+#: index-two.php:74 inc/admin-panel/theme-options.php:275
+msgid "About AccessPress Lite"
+msgstr ""
+
+#: index-two.php:77
+msgid ""
+"AccessPress Lite is a HTML5 & CSS3 Responsive WordPress Business Theme with "
+"clean, minimal yet highly professional design.With our years of experience, "
+"we've developed this theme and given back to this awesome WordPress "
+"community. The theme is complete with many useful features. The intuitive "
+"theme options let you manage all the possible options/features of the theme. "
+"abore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud "
+"exercitation ullamco labolabore et dolore magna aliqua.Ulabore et dolore "
+"magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco "
+"laboxx"
+msgstr ""
+
+#: index-two.php:79
+msgid "Read more"
+msgstr ""
+
+#: index-two.php:88
+msgid "Features Posts"
+msgstr ""
+
+#: index-two.php:442
+msgid ""
+"labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud "
+"exercitation ullamco labolabore et dolore magna aliqua. <br />\n"
+"                Ut enim ad minim veniam, quis nostrud exercitation ullamco "
+"labolabore et dolore magna aliqua. Ulabore et dolore magna aliqua."
+msgstr ""
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:9
+msgid "Search..."
+msgstr ""
+
+#: header/header-one.php:44 header/header-two.php:65
+msgid "Menu"
+msgstr ""
+
+#: inc/custom-metabox.php:37
+msgid "Left sidebar"
+msgstr ""
+
+#: inc/custom-metabox.php:42
+msgid "Right sidebar<br/>(default)"
+msgstr ""
+
+#: inc/custom-metabox.php:47
+msgid "Both Sidebar"
+msgstr ""
+
+#: inc/custom-metabox.php:53
+msgid "No sidebar"
+msgstr ""
+
+#: inc/custom-metabox.php:67
+msgid "Choose Sidebar Template"
+msgstr ""
+
+#: inc/custom-metabox.php:88
+msgid ""
+"You can set up the sidebar content <a href=\"%s\" target=\"_blank\">here</a> "
+"in Sidebar tab"
+msgstr ""
+
+#: inc/extras.php:76
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/extras.php:78 inc/extras.php:98
+msgid "Display items in the Left Sidebar of the inner pages"
+msgstr ""
+
+#: inc/extras.php:86
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/extras.php:88
+msgid "Display items in the Right Sidebar of the inner pages"
+msgstr ""
+
+#: inc/extras.php:96
+msgid "Event Sidebar"
+msgstr ""
+
+#: inc/extras.php:106
+msgid "Blog Right Sidebar"
+msgstr ""
+
+#: inc/extras.php:108
+msgid ""
+"Display items for the blog category in the Right Sidebar of the inner pages"
+msgstr ""
+
+#: inc/extras.php:116
+msgid "Footer Area One"
+msgstr ""
+
+#: inc/extras.php:118
+msgid "Display items in First Footer Area"
+msgstr ""
+
+#: inc/extras.php:126
+msgid "Footer Area Two"
+msgstr ""
+
+#: inc/extras.php:128
+msgid "Display items in Second Footer Area"
+msgstr ""
+
+#: inc/extras.php:136
+msgid "Footer Area Three"
+msgstr ""
+
+#: inc/extras.php:138
+msgid "Display items in Third Footer Area"
+msgstr ""
+
+#: inc/extras.php:146
+msgid "Footer Area Four"
+msgstr ""
+
+#: inc/extras.php:148
+msgid "Display items in Fourth Footer Area"
+msgstr ""
+
+#: inc/extras.php:156
+msgid "Left Block above footer"
+msgstr ""
+
+#: inc/extras.php:158
+msgid "Display items in the left just above the footer"
+msgstr ""
+
+#: inc/extras.php:166
+msgid "Middle Block above footer"
+msgstr ""
+
+#: inc/extras.php:168
+msgid ""
+"Display items in the middle just above the footer and replaces defaul gallery"
+msgstr ""
+
+#: inc/extras.php:176
+msgid "Right Block above footer"
+msgstr ""
+
+#: inc/extras.php:178
+msgid ""
+"Display items in the Right just above the footer and replaces Testimonials"
+msgstr ""
+
+#: inc/extras.php:617
+msgid "Go to <a href=\"%s\">Theme Options Panel</a> to set up the website."
+msgstr ""
+
+#: inc/extras.php:687
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/extras.php:688
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/extras.php:689
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/extras.php:690
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/extras.php:691
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/extras.php:696
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/extras.php:701
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/extras.php:706
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/extras.php:711
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/extras.php:716
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/extras.php:721
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/extras.php:726
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/extras.php:731
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/extras.php:736
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/extras.php:741
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/extras.php:746
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/extras.php:751
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/extras.php:752
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/extras.php:753
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/extras.php:754
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/extras.php:755
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/extras.php:756
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/extras.php:757
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/more-themes.php:14 inc/more-themes.php:15
+msgid "More Themes"
+msgstr ""
+
+#: inc/more-themes.php:31
+msgid ""
+"More Themes from <a href=\"%s\" target=\"_blank\">AccessPress Themes</a>"
+msgstr ""
+
+#: inc/more-themes.php:59
+msgid "Active"
+msgstr ""
+
+#: inc/more-themes.php:61
+msgid "Customize"
+msgstr ""
+
+#: inc/more-themes.php:96
+msgid "Already installed"
+msgstr ""
+
+#: inc/more-themes.php:99
+msgid "Activate"
+msgstr ""
+
+#: inc/more-themes.php:108
+msgid "Install Now"
+msgstr ""
+
+#: inc/more-themes.php:111
+msgid "Live Preview"
+msgstr ""
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:27
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: inc/template-tags.php:31
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:59
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr ""
+
+#: inc/template-tags.php:60
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/template-tags.php:85
+msgid ""
+"<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:25
+msgid "Call us : 984187523XX"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:88
+msgid "View All"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:92
+msgid "Check Our AccessPress Pro Theme - A premium version of AccessPres Lite"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:93
+msgid "Check Now"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:113 inc/admin-panel/theme-options.php:113
+msgid "Theme Options"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:120 inc/admin-panel/theme-options.php:134 
+#: inc/admin-panel/theme-options.php:159
+msgid "--choose--"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:180 inc/admin-panel/theme-options.php:235
+msgid "show"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:184 inc/admin-panel/theme-options.php:239
+msgid "hide"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:191 inc/admin-panel/theme-options.php:202 
+#: inc/admin-panel/theme-options.php:213
+msgid "yes"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:195 inc/admin-panel/theme-options.php:206 
+#: inc/admin-panel/theme-options.php:217
+msgid "no"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:224
+msgid "fade"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:228
+msgid "slide"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:258
+msgid " Theme Options"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:264
+msgid "Options saved"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:269 inc/admin-panel/theme-options.php:291
+msgid "Basic Settings"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:270
+msgid "Home Page"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:271
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:272
+msgid "Sidebar"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:273
+msgid "Social Links"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:274
+msgid "Tools"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:293
+msgid "Home Page Template"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:295
+msgid "Template One"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:295
+msgid "Template Two"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:305
+msgid "Disable Responsive Design?"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:308 inc/admin-panel/theme-options.php:623 
+#: inc/admin-panel/theme-options.php:929
+msgid "Check to disable"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:312
+msgid "Web Page Layout"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:314
+msgid "Fullwidth"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:314
+msgid "Boxed"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:325
+msgid "Show Search in Header?"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:328 inc/admin-panel/theme-options.php:491 
+#: inc/admin-panel/theme-options.php:525 inc/admin-panel/theme-options.php:539 
+#: inc/admin-panel/theme-options.php:548 inc/admin-panel/theme-options.php:863 
+#: inc/admin-panel/theme-options.php:871 inc/admin-panel/theme-options.php:888 
+#: inc/admin-panel/theme-options.php:896
+msgid "Check to enable"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:333
+msgid "Upload Favicon"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:337 inc/admin-panel/theme-options.php:358
+msgid "Upload"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:338
+msgid "Upload favicon(.png) with size of 16px X 16px"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:343 inc/admin-panel/theme-options.php:348
+msgid "Remove"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:356
+msgid "Upload Logo"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:363
+msgid "Header Text"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:365
+msgid "Example.. Call Us : 985XXX9856XX"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:366
+msgid "Html content allowed"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:369
+msgid "Menu Alignment"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:371
+msgid "Left"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:371
+msgid "Right"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:371
+msgid "Center"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:384
+msgid "Select the category to display as Events"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:398
+msgid "Select the category to display as Testimonials"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:412
+msgid "Select the category to display as Portfolio/Products"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:428
+msgid "You can show these categories in the menu by configuring"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:428
+msgid "Page."
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:435
+msgid "Footer Title"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:438
+msgid "Only For Home Template Two"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:442
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:452
+msgid "Home Page Settings"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:454
+msgid "Home Page Layout"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:456
+msgid "Default"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:456
+msgid "Layout1"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:456
+msgid "Layout2"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:474
+msgid "Welcome Post"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:488
+msgid "Show Full Content?"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:496
+msgid "Welcome Post Excerpt Character"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:497
+msgid "Characters"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:501 inc/admin-panel/theme-options.php:598
+msgid "Read More Text"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:502 inc/admin-panel/theme-options.php:599
+msgid "Leave blank if you don't want to show read more"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:508
+msgid "Disable Event Section?"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:511
+msgid "Check to Disable"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:512
+msgid "The welcome post will cover the full width if disabled."
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:517
+msgid "No of Items to display in Event/News Category beside Welcome Post"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:522
+msgid "Show Event Date?"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:530
+msgid "To replace the Event section in homepage, Go to"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:530
+msgid "widget"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:530
+msgid "and drag widget item into the Event Sidebar Widget area."
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:536
+msgid "Show Font Awesome icon for Featured Post?"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:540
+msgid ""
+"(If enabled the featured image will be replaced by Font Awesome Icon. For "
+"lists of icons click"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:540 inc/admin-panel/theme-options.php:613 
+#: inc/admin-panel/theme-options.php:876 inc/admin-panel/theme-options.php:901 
+#: inc/admin-panel/theme-options.php:1050 
+#: inc/admin-panel/theme-options.php:1051 
+#: inc/admin-panel/theme-options.php:1052
+msgid "here"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:545
+msgid "Show Big Font Awesome icon with center aligned"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:552
+msgid "Featured Post 1"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:563 inc/admin-panel/theme-options.php:578 
+#: inc/admin-panel/theme-options.php:593
+msgid "Font Awesome icon name"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:563 inc/admin-panel/theme-options.php:578 
+#: inc/admin-panel/theme-options.php:593
+msgid "Example:"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:567
+msgid "Featured Post 2"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:582
+msgid "Featured Post 3"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:605
+msgid "Gallery Short Code"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:613
+msgid ""
+"You can replace the gallery and testimonial section of the home page with "
+"custom widget"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:620
+msgid "Disable Featured Bar (above footer)"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:630
+msgid "Call To action"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:636
+msgid "Text"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:643
+msgid "Read More Button Text"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:650
+msgid "Read More Button link"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:661
+msgid "Home Page Slider Settings"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:666
+msgid "Show"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:675
+msgid "Single Posts as a Slider"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:679
+msgid "Category Posts as a Slider"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:689
+msgid "Select the post that you want to display as a Slider"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:694
+msgid "Silder 1"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:708
+msgid "Silder 2"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:722
+msgid "Silder 3"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:737
+msgid "Silder 4"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:754
+msgid "Select the Category"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:778
+msgid "Adjust the slider as per your need."
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:781
+msgid "Show Slider"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:790
+msgid "Show Slider Pager (Navigation dots)"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:799
+msgid "Show Slider Controls (Arrows)"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:808
+msgid "Slider Transition - fade/slide"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:817
+msgid "Slider auto Transition"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:826
+msgid "Slider Speed"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:832
+msgid "Slider Pause"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:838
+msgid "Show Slider Captions"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:852
+msgid "Sidebar Settings"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:858
+msgid "Left Sidebar Options"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:860 inc/admin-panel/theme-options.php:885
+msgid "Show Latest Events?"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:868 inc/admin-panel/theme-options.php:893
+msgid "Show Testimonials?"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:876
+msgid "To add Custom widget in Left Sidebar, Click"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:883
+msgid "Right Sidebar Options"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:901
+msgid "To add Custom widget in Right Sidebar, Click"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:910
+msgid "View All Text"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:911
+msgid "Leave blank if you don't want to show View All Text"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:919
+msgid "Social links - Put your social url"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:922
+msgid "Put your social url below.. Leave blank if you don't want to show it."
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:926
+msgid "Disable Social icons in header?"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:1027
+msgid "Footer Contact"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:1029
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:1032
+msgid "Put your custom CSS"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:1040
+msgid "Know more about AccessPress Themes"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:1044
+msgid "AccessPress Lite - is a FREE WordPress theme by"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:1044
+msgid "- A WordPress Division of Access Keys."
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:1045
+msgid ""
+" Access Keys - has developed more than 350 WordPress websites for its "
+"clients."
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:1047
+msgid ""
+"We want to give \"a little beautiful thing\" - back to the community.<br />"
+"With our experience, we are creating \"AccessPress Lite\", a free WordPress "
+"theme, which includes the most useful features for a generic business "
+"website!"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:1050
+msgid "For Documentation, click"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:1051
+msgid "For Video tutorials, click"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:1052
+msgid "Live Preview, click"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:1055
+msgid "New Child Theme of AccessPress Lite"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:1056
+msgid "Check Demo Here - "
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:1057
+msgid "Download Here - "
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:1061
+msgid "Our other Products"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:1062
+msgid "Themes - "
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:1063
+msgid "Plugins - "
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:1065
+msgid "Get in touch"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:1068
+msgid ""
+"If you have any question/feedback regarding theme, please post in our forum"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:1069
+msgid "Forum:"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:1073
+msgid "For Online Chat Support"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:1078
+msgid "For Queries Regading Pro Themes"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:1088
+msgid "Save Options"
+msgstr ""
+
+#: inc/admin-panel/theme-options.php:1106
+msgid ""
+"Any question!! Click <a href=\"%s\" target=\"_blank\">here</a> for Live Chat."
+msgstr ""
+
+#. Name of the theme
+msgid "AccessPress Lite"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"AccessPress Lite is responsive multipurpose WordPress business theme with "
+"clean, highly professional design and lots of useful features like a premium "
+"theme - and strong theme options panel to manage theme all! It is probably "
+"the most feature-rich free theme with lots of useful options events layout, "
+"portfolio layout, testimonial layout, blog layout, gallery layout, featured "
+"posts on home page, quick contact, social media integration, full width "
+"slider, team member layout, sidebar layout, multiple home page layout, call "
+"to action and many other page layouts. It is fully responsive, WooCommerce "
+"compatible, bbPress compatible, translation ready, cross-browser compatible, "
+"SEO friendly, RTL support. Theme is completely translated in: French, "
+"Persian, Japanese, Danish now. AccessPress Lite is multi-purpose and is "
+"suitable for travel, corporate, portfolio, photography, nature, health, "
+"small biz, personal, creative, corporate, agencies, bloggers anyone and "
+"everyone. Great customer support via online chat, email, support forum. "
+"Official support forum: https://accesspressthemes.com/support/ Video "
+"tutorials: http://bit.ly/aptytube View full demo here: http:"
+"//accesspressthemes.com/theme-demos/?theme=accesspress-lite"
+msgstr ""
+
+#. URI of the theme
+msgid "https://accesspressthemes.com/wordpress-themes/accesspress-lite/"
+msgstr ""
+
+#. Author of the theme
+msgid "AccessPress Themes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://accesspressthemes.com"
+msgstr ""
