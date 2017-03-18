@@ -453,22 +453,22 @@ wp_reset_query(); ?>
         <h3>Gallery</h3>
 		<div id="gallery-1" class="gallery galleryid-445 gallery-columns-3 gallery-size-thumbnail"><dl class="gallery-item">
 			<dt class="gallery-icon landscape">
-				<a href="<?php echo get_template_directory_uri();?>/images/demo/img1-thumb.jpg" class="fancybox-gallery" data-lightbox-gallery="gallery"><img width="150" height="150" src="<?php echo get_template_directory_uri();?>/images/demo/img1-thumb.jpg" class="attachment-thumbnail size-thumbnail" alt="img6-thumb"></a>
+				<a href="<?php echo get_template_directory_uri();?>/images/demo/img1.jpg" class="fancybox-gallery" data-lightbox-gallery="gallery"><img width="150" height="150" src="<?php echo get_template_directory_uri();?>/images/demo/img1-thumb.jpg" class="attachment-thumbnail size-thumbnail" alt="img6-thumb"></a>
 			</dt></dl><dl class="gallery-item">
 			<dt class="gallery-icon landscape">
-				<a href="<?php echo get_template_directory_uri();?>/images/demo/img2-thumb.jpg" class="fancybox-gallery" data-lightbox-gallery="gallery"><img width="150" height="150" src="<?php echo get_template_directory_uri();?>/images/demo/img2-thumb.jpg" class="attachment-thumbnail size-thumbnail" alt="img5-thumb"></a>
+				<a href="<?php echo get_template_directory_uri();?>/images/demo/img2.jpg" class="fancybox-gallery" data-lightbox-gallery="gallery"><img width="150" height="150" src="<?php echo get_template_directory_uri();?>/images/demo/img2-thumb.jpg" class="attachment-thumbnail size-thumbnail" alt="img5-thumb"></a>
 			</dt></dl><dl class="gallery-item">
 			<dt class="gallery-icon landscape">
-				<a href="<?php echo get_template_directory_uri();?>/images/demo/img3-thumb.jpg" class="fancybox-gallery" data-lightbox-gallery="gallery"><img width="150" height="150" src="<?php echo get_template_directory_uri();?>/images/demo/img3-thumb.jpg" class="attachment-thumbnail size-thumbnail" alt="img4-thumb"></a>
+				<a href="<?php echo get_template_directory_uri();?>/images/demo/img3.jpg" class="fancybox-gallery" data-lightbox-gallery="gallery"><img width="150" height="150" src="<?php echo get_template_directory_uri();?>/images/demo/img3-thumb.jpg" class="attachment-thumbnail size-thumbnail" alt="img4-thumb"></a>
 			</dt></dl><br style="clear: both"><dl class="gallery-item">
 			<dt class="gallery-icon landscape">
-				<a href="<?php echo get_template_directory_uri();?>/images/demo/img4-thumb.jpg" class="fancybox-gallery" data-lightbox-gallery="gallery"><img width="150" height="150" src="<?php echo get_template_directory_uri();?>/images/demo/img4-thumb.jpg" class="attachment-thumbnail size-thumbnail" alt="img3-thumb"></a>
+				<a href="<?php echo get_template_directory_uri();?>/images/demo/img4.jpg" class="fancybox-gallery" data-lightbox-gallery="gallery"><img width="150" height="150" src="<?php echo get_template_directory_uri();?>/images/demo/img4-thumb.jpg" class="attachment-thumbnail size-thumbnail" alt="img3-thumb"></a>
 			</dt></dl><dl class="gallery-item">
 			<dt class="gallery-icon landscape">
-				<a href="<?php echo get_template_directory_uri();?>/images/demo/img5-thumb.jpg" class="fancybox-gallery" data-lightbox-gallery="gallery"><img width="150" height="150" src="<?php echo get_template_directory_uri();?>/images/demo/img5-thumb.jpg" class="attachment-thumbnail size-thumbnail" alt="img2-thumb"></a>
+				<a href="<?php echo get_template_directory_uri();?>/images/demo/img5.jpg" class="fancybox-gallery" data-lightbox-gallery="gallery"><img width="150" height="150" src="<?php echo get_template_directory_uri();?>/images/demo/img5-thumb.jpg" class="attachment-thumbnail size-thumbnail" alt="img2-thumb"></a>
 			</dt></dl><dl class="gallery-item">
 			<dt class="gallery-icon landscape">
-				<a href="<?php echo get_template_directory_uri();?>/images/demo/img6-thumb.jpg" class="fancybox-gallery" data-lightbox-gallery="gallery"><img width="150" height="150" src="<?php echo get_template_directory_uri();?>/images/demo/img6-thumb.jpg" class="attachment-thumbnail size-thumbnail" alt="img1-thumb"></a>
+				<a href="<?php echo get_template_directory_uri();?>/images/demo/img6.jpg" class="fancybox-gallery" data-lightbox-gallery="gallery"><img width="150" height="150" src="<?php echo get_template_directory_uri();?>/images/demo/img6-thumb.jpg" class="attachment-thumbnail size-thumbnail" alt="img1-thumb"></a>
 			</dt></dl><br style="clear: both">
 		</div>
         <?php endif; ?>	
@@ -520,37 +520,70 @@ wp_reset_query(); ?>
 			<h3 class="widget-title"><?php _e('Testimonials','accesspress-lite'); ?></h3>
 			<div class="testimonial-wrap">
 				<div class="testimonial-slider">
-					<div class="testimonial-slide">
+                                        <div class="testimonial-slide">
 			        	<div class="testimonial-list clearfix">
 			        		<div class="testimonial-thumbnail">
-			        		<img src="<?php echo get_template_directory_uri(); ?>/images/demo/Yanetxys-Torreblanca.jpg">
-			        		</div>
-
-			        		<div class="testimonial-excerpt"><?php _e('Thanks for delivering top quality services to your clients. It just takes a minute to get an answer from you when in difficulties.','accesspress-lite'); ?></div>
-			        	</div>
-						<div class="testimoinal-client-name"><?php _e('Yanetxys Torreblanca','accesspress-lite'); ?></div>
-					</div>
-
-					<div class="testimonial-slide">
-			        	<div class="testimonial-list clearfix">
-			        		<div class="testimonial-thumbnail">
-			        		<img src="<?php echo get_template_directory_uri(); ?>/images/demo/David-Soriano.jpg">
+			        		<img src="<?php echo get_template_directory_uri(); ?>/images/demo/Bessy-Lewen.jpg">
 			        		</div>
 
 			        		<div class="testimonial-excerpt"><?php _e('Thank you very much the support team AccessPress lite for service, are really wonderful in their care and in the resolution of the problem.','accesspress-lite'); ?></div>
 			        	</div>
-						<div class="testimoinal-client-name"><?php _e('David Soriano','accesspress-lite'); ?></div>
+						<div class="testimoinal-client-name"><?php _e('Bessy Lewen','accesspress-lite'); ?></div>
+					</div>
+					
+                                        <div class="testimonial-slide">
+			        	<div class="testimonial-list clearfix">
+			        		<div class="testimonial-thumbnail">
+			        		<img src="<?php echo get_template_directory_uri(); ?>/images/demo/Raziel-Valle.jpg">
+			        		</div>
+
+			        		<div class="testimonial-excerpt"><?php _e('Thanks for delivering top quality services to your clients. It just takes a minute to get an answer from you when in difficulties.','accesspress-lite'); ?></div>
+			        	</div>
+						<div class="testimoinal-client-name"><?php _e('Raziel Valle','accesspress-lite'); ?></div>
 					</div>
 
 					<div class="testimonial-slide">
 			        	<div class="testimonial-list clearfix">
 			        		<div class="testimonial-thumbnail">
-			        		<img src="<?php echo get_template_directory_uri(); ?>/images/demo/Jotta-Lima.jpg">
+			        		<img src="<?php echo get_template_directory_uri(); ?>/images/demo/Blanca-Miranda.jpg">
+			        		</div>
+
+			        		<div class="testimonial-excerpt"><?php _e('Thanks for delivering top quality services to your clients. It just takes a minute to get an answer from you when in difficulties.','accesspress-lite'); ?></div>
+			        	</div>
+						<div class="testimoinal-client-name"><?php _e('Blanca Miranda','accesspress-lite'); ?></div>
+					</div>
+                                    
+					<div class="testimonial-slide">
+			        	<div class="testimonial-list clearfix">
+			        		<div class="testimonial-thumbnail">
+			        		<img src="<?php echo get_template_directory_uri(); ?>/images/demo/Armando-Carmelo.jpg">
 			        		</div>
 
 			        		<div class="testimonial-excerpt"><?php _e('Hello, I would say I am much satisfied! I tested installing the theme AccessPress Lite on my blog and found it very good.','accesspress-lite'); ?></div>
 			        	</div>
-						<div class="testimoinal-client-name"><?php _e('Jotta Lima','accesspress-lite'); ?></div>
+						<div class="testimoinal-client-name"><?php _e('Armando Carmelo','accesspress-lite'); ?></div>
+					</div>
+
+					<div class="testimonial-slide">
+			        	<div class="testimonial-list clearfix">
+			        		<div class="testimonial-thumbnail">
+			        		<img src="<?php echo get_template_directory_uri(); ?>/images/demo/Hortensia-Gomez.jpg">
+			        		</div>
+
+			        		<div class="testimonial-excerpt"><?php _e('Hello, I would say I am much satisfied! I tested installing the theme AccessPress Lite on my blog and found it very good.','accesspress-lite'); ?></div>
+			        	</div>
+						<div class="testimoinal-client-name"><?php _e('Hortensia Gomez','accesspress-lite'); ?></div>
+					</div>
+
+					<div class="testimonial-slide">
+			        	<div class="testimonial-list clearfix">
+			        		<div class="testimonial-thumbnail">
+			        		<img src="<?php echo get_template_directory_uri(); ?>/images/demo/Luzmila-Manrique.jpg">
+			        		</div>
+
+			        		<div class="testimonial-excerpt"><?php _e('Hello, I would say I am much satisfied! I tested installing the theme AccessPress Lite on my blog and found it very good.','accesspress-lite'); ?></div>
+			        	</div>
+						<div class="testimoinal-client-name"><?php _e('Luzmila Manrique','accesspress-lite'); ?></div>
 					</div>
 				</div>
 			</div>

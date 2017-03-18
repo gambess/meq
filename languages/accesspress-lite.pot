@@ -242,7 +242,6 @@ msgstr ""
 msgid "Why ME?"
 msgstr ""
 
-
 #: index-one.php:429
 msgid "Option1"
 msgstr ""
@@ -285,35 +284,65 @@ msgstr ""
 
 #: index-one.php:529
 msgid ""
-"Thanks for delivering top quality services to your clients. It just takes a "
-"minute to get an answer from you when in difficulties."
-msgstr ""
-
-#: index-one.php:531
-msgid "Yanetxys Torreblanca"
-msgstr ""
-
-#: index-one.php:540
-msgid ""
 "Thank you very much the support team AccessPress lite for service, are "
 "really wonderful in their care and in the resolution of the problem."
 msgstr ""
 
+#: index-one.php:531
+msgid "Bessy Lewen"
+msgstr ""
+
+#: index-one.php:540
+msgid ""
+"Thanks for delivering top quality services to your clients. It just takes a "
+"minute to get an answer from you when in difficulties."
+msgstr ""
+
 #: index-one.php:542
-msgid "David Soriano"
+msgid "Raziel Valle"
 msgstr ""
 
 #: index-one.php:551
+msgid ""
+"Thanks for delivering top quality services to your clients. It just takes a "
+"minute to get an answer from you when in difficulties."
+msgstr ""
+
+#: index-one.php:553
+msgid "Blanca Miranda"
+msgstr ""
+
+#: index-one.php:562
 msgid ""
 "Hello, I would say I am much satisfied! I tested installing the theme "
 "AccessPress Lite on my blog and found it very good."
 msgstr ""
 
-#: index-one.php:553
-msgid "Jotta Lima"
+#: index-one.php:564
+msgid "Armando Carmelo"
 msgstr ""
 
-#: index-one.php:557
+#: index-one.php:573
+msgid ""
+"Hello, I would say I am much satisfied! I tested installing the theme "
+"AccessPress Lite on my blog and found it very good."
+msgstr ""
+
+#: index-one.php:575
+msgid "Hortensia Gomez"
+msgstr ""
+
+#: index-one.php:584
+msgid ""
+"Hello, I would say I am much satisfied! I tested installing the theme "
+"AccessPress Lite on my blog and found it very good."
+msgstr ""
+
+#: index-one.php:586
+msgid "Luzmila Manrique"
+msgstr ""
+
+#: index-one.php:590
 msgid "View All Testimonials"
 msgstr ""
 
